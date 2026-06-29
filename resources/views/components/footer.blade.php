@@ -1,17 +1,16 @@
-<footer class="mt-12 pb-8">
+<footer class="mt-8 sm:mt-12 pb-6 sm:pb-8 px-4">
 
     <div class="text-center">
 
-        <p class="text-sm text-slate-400">
-            © {{ now()->year }}
-            {{ $profile->name }}
+        <p class="text-xs sm:text-sm text-slate-400">
+            © {{ now()->year }} {{ $profile->name }}
         </p>
 
-        <p class="mt-2 text-sm text-slate-500">
+        <p class="mt-1.5 sm:mt-2 text-xs sm:text-sm text-slate-500 font-mono-dev">
             Built with
-            <span class="font-semibold text-indigo-400">Laravel</span>
+            <span class="font-semibold text-emerald-400">Laravel</span>
             &
-            <span class="font-semibold text-cyan-400">Filament</span>
+            <span class="font-semibold text-sky-400">Filament</span>
         </p>
 
     </div>
