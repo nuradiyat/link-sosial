@@ -19,7 +19,7 @@ Clone the repo locally:
 git clone https://github.com/nuradiyat/link-sosial.git 
 ```
 
-Masuk teks editor Install PHP dependencies:
+Masuk teks editor Install dependencies project:
 
 ```sh
 composer install 
