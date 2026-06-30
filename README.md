@@ -16,10 +16,10 @@ You're ready to go! Visit the url in your browser, and login with:
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/nuradiyat/link-sosial.git filament-demo && cd link-sosial
+git clone https://github.com/nuradiyat/link-sosial.git 
 ```
 
-Install PHP dependencies:
+Masuk teks editor Install PHP dependencies:
 
 ```sh
 composer install
