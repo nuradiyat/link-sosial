@@ -1,7 +1,6 @@
+# LINK SOSIAL MEDIA
 
-# Filament Demo App
-
-Boking Kos😎😎😎
+LINK SOSIAL MEDIA😎😎😎
 You're ready to go! Visit the url in your browser, and login with:
 
 -   **Username:** nuradiyat@gmail.com
