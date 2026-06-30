@@ -3,7 +3,7 @@
 LINK SOSIAL MEDIA😎😎😎
 You're ready to go! Visit the url in your browser, and login with:
 
--   **Username:** nuradiyat@gmail.com
+-   **Username:** slebew@gmail.com
 -   **Password:** password
 
 
