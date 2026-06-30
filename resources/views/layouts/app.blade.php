@@ -141,7 +141,7 @@
             const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
             // Glyphs pulled from a developer's everyday vocabulary
-            const glyphs = ['{ }', '</>', '=>', '01', '10', ';', '&&', '||', '::', '#', 'λ', '/* */', '!=', '++'];
+            const glyphs = ['{ }', '</>', '=>', '500', '504', ';', '&&', '||', '::', '#', 'λ', '/* */', '!=', '++', '->', '" "', ';', '404', '401', '[ ]', '( )'];
             const COUNT = reduced ? 16 : 60;
 
             const colors = {

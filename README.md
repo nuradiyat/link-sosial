@@ -4,8 +4,8 @@
 Boking Kos😎😎😎
 You're ready to go! Visit the url in your browser, and login with:
 
--   **Username:** ibukos@ngekos.com
--   **Password:** slebew
+-   **Username:** nuradiyat@gmail.com
+-   **Password:** password
 
 
 ![Filament Demo](https://github.com/filamentphp/demo/assets/171715/899161a9-3c85-4dc9-9599-13928d3a4412)
@@ -17,7 +17,7 @@ You're ready to go! Visit the url in your browser, and login with:
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/laravel-filament/demo.git filament-demo && cd filament-demo
+git clone https://github.com/nuradiyat/link-sosial.git filament-demo && cd link-sosial
 ```
 
 Install PHP dependencies:
@@ -72,3 +72,6 @@ Run the dev server (the output will give the address):
 ```sh
 php artisan serve
 ```
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
