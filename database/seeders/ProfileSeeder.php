@@ -20,7 +20,7 @@ class ProfileSeeder extends Seeder
             'headline'  => 'Web Developer | Data Analyst',
             'bio'       => 'Saya membuat website menggunakan Laravel dan Filament.',
             'email'     => 'nuradiyat@gmail.com',
-            'phone'     => '081234567890',
+            'phone'     => '081345295651',
             'location'  => 'Indonesia',
         ]);
     }
