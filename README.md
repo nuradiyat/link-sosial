@@ -22,7 +22,9 @@ git clone https://github.com/nuradiyat/link-sosial.git
 Masuk teks editor Install PHP dependencies:
 
 ```sh
-composer install
+composer install 
+
+npm install 
 ```
 
 Setup configuration:
