@@ -7,10 +7,10 @@
         </p>
 
         <p class="mt-1.5 sm:mt-2 text-xs sm:text-sm text-slate-500 font-mono-dev">
-            Built with
-            <span class="font-semibold text-emerald-400">Laravel</span>
+            Bangun
+            <span class="font-semibold text-emerald-400">Kolaborasi</span>
             &
-            <span class="font-semibold text-sky-400">Filament</span>
+            <span class="font-semibold text-sky-400">Lerasi</span>
         </p>
 
     </div>
